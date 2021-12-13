@@ -58,7 +58,7 @@ A cloud based Android Monitoring Tool, powered by NodeJS
     
 It's recommended to run XploitSPY behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
-
+<a href="https://heroku.com/deploy">deploy</a>
 ## Buy us a Coffee
    Bitcoin : 3HwzRLbZxFVxyZzLoEHFnoB5RVKfzwxDbf
    
